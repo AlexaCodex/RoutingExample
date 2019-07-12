@@ -1,0 +1,14 @@
+C:\Users\RS\source\repos\RoutingExample\bin\Debug\netcoreapp2.1\RoutingExample.deps.json
+C:\Users\RS\source\repos\RoutingExample\bin\Debug\netcoreapp2.1\RoutingExample.runtimeconfig.json
+C:\Users\RS\source\repos\RoutingExample\bin\Debug\netcoreapp2.1\RoutingExample.runtimeconfig.dev.json
+C:\Users\RS\source\repos\RoutingExample\bin\Debug\netcoreapp2.1\RoutingExample.dll
+C:\Users\RS\source\repos\RoutingExample\bin\Debug\netcoreapp2.1\RoutingExample.pdb
+C:\Users\RS\source\repos\RoutingExample\obj\Debug\netcoreapp2.1\RoutingExample.csprojAssemblyReference.cache
+C:\Users\RS\source\repos\RoutingExample\obj\Debug\netcoreapp2.1\RoutingExample.csproj.CoreCompileInputs.cache
+C:\Users\RS\source\repos\RoutingExample\obj\Debug\netcoreapp2.1\RoutingExample.RazorAssemblyInfo.cache
+C:\Users\RS\source\repos\RoutingExample\obj\Debug\netcoreapp2.1\RoutingExample.RazorAssemblyInfo.cs
+C:\Users\RS\source\repos\RoutingExample\obj\Debug\netcoreapp2.1\RoutingExample.AssemblyInfoInputs.cache
+C:\Users\RS\source\repos\RoutingExample\obj\Debug\netcoreapp2.1\RoutingExample.AssemblyInfo.cs
+C:\Users\RS\source\repos\RoutingExample\obj\Debug\netcoreapp2.1\RoutingExample.RazorTargetAssemblyInfo.cache
+C:\Users\RS\source\repos\RoutingExample\obj\Debug\netcoreapp2.1\RoutingExample.dll
+C:\Users\RS\source\repos\RoutingExample\obj\Debug\netcoreapp2.1\RoutingExample.pdb
